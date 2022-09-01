@@ -1,6 +1,6 @@
-# Lab 33 Code401_d19 - Permissions & Postgresql
+# Lab 32 Code401_d19 - Permissions & Postgresql
 
-1. Lab 33 - Build a Django Rest app supported by Docker container and using permissions and Postgesql
+1. Lab 32 - Build a Django Rest app supported by Docker container and using permissions and Postgesql
 
 [Django Website]()
 
